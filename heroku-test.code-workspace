@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "db"
+		},
+		{
+			"path": "helpers"
+		},
+		{
+			"path": "middleware"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "routes"
+		}
+	],
+	"settings": {}
+}
